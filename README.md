@@ -1,4 +1,4 @@
 # hello-world
-Just another repository
+Just another repository.
 Time is the movement of eternity.
 Plato
